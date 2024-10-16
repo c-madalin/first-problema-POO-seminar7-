@@ -4,6 +4,6 @@
 
 int main()
 {
-
+	std::cout << 'P';
 	return 0;
 }
